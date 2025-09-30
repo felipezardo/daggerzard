@@ -1382,5 +1382,98 @@
       "nome": "Artista Marcial",
       "img": "ARTISTA MARCIAL.png"
     }
+  ],
+    "Classes": [
+  {
+    "nivel": 1,
+    "nome": "Assassino-pt1",
+    "img": "Assassino-pt1.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Assassino-pt2",
+    "img": "Assassino-pt2.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Bardo",
+    "img": "Bardo.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Bruxa-pt1",
+    "img": "Bruxa-pt1.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Bruxa-pt2",
+    "img": "Bruxa-pt2.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Caçador",
+    "img": "Caçador.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Druida-pt1",
+    "img": "Druida-pt1.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Druida-pt2",
+    "img": "Druida-pt2.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Feiticeiro",
+    "img": "Feiticeiro.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Guardião",
+    "img": "Guardião.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Guerreiro",
+    "img": "Guerreiro.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Ladino",
+    "img": "Ladino.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Mago",
+    "img": "Mago.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Pugilista-pt1",
+    "img": "Pugilista-pt1.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Pugilista-pt2",
+    "img": "Pugilista-pt2.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Serafim",
+    "img": "Serafim.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Warlock-pt1",
+    "img": "Warlock-pt1.png"
+  },
+  {
+    "nivel": 1,
+    "nome": "Warlock-pt2",
+    "img": "Warlock-pt2.png"
+  }
+
   ]
 }
